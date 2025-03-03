@@ -1,0 +1,60 @@
+body {
+    font-family:  sans-serif;
+    text-align: center;
+    background: ;
+    color: whitesmoke;
+    margin: auto;
+    padding: 20px;
+}
+
+.container {
+    background:skyblue ;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    max-width: 600px;
+    margin: auto;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 10px;
+    border: 3px orange;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background:floralwhite ;
+    color:green;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background:lightgreen ;
+}
+
+.skills, .about-me {
+    margin-top: 20px;
+    background:lightpink ;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: ;
+    margin: 5px 0;
+    padding: 8px;
+    border-radius: 5px;
+}
